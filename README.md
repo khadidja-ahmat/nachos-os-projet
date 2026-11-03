@@ -34,6 +34,3 @@ Projet du cours de **Systèmes d'Exploitation** (M1 Informatique, Université de
 
 C++ · programmation système · appels système · threads et synchronisation (verrous) · gestion mémoire (pagination) · processus · débogage (gdb, Valgrind) · Git.
 
-## Mon rôle
-
-Environ 30 commits sur ce projet, répartis sur les trois devoirs (je me suis occupée en particulier de la console, des appels système d'entrée/sortie, des threads utilisateur, du `PageProvider`, de `ForkExec` et du mini-shell).

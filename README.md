@@ -28,6 +28,7 @@ Projet du cours de **Systèmes d'Exploitation** (M1 Informatique, Université de
 - Appel système `ForkExec` : lancement de plusieurs processus.
 - `Exit` : le simulateur ne s'arrête que quand le dernier processus se termine ; la fin d'un thread principal termine tous les threads de son processus.
 - Mini-**shell** utilisateur : il affiche une invite `nachos>`, lit une commande et lance le programme correspondant avec `ForkExec` ; la commande `exit` quitte.
+  
 - Vérification avec **Valgrind** (pas de fuite mémoire).
 
 ## Compétences mises en œuvre
